@@ -2,4 +2,4 @@
 
 This Repository Includes:
 - Data Wrangling/EDA Write-Up (Word Doc)
-- Data Analysis and Plots can be found in each of our 4 members' branches (Python Files)
+- Data Analysis and Plots can be found in 4 files (3 Jupiter Notebooks, 1 Python File), 1 from each group member, in the main branch
